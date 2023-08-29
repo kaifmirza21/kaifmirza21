@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **kaifmirza21/kaifmirza21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 --><!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
 <!-- <h1 align="center">Hi 👋, I'm Dyanesh Dhawale</h1> -->
-<p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="portfolio.png"/></p>
+<!-- <p align="center"><img width="50%" height="auto" href="https://dyanix.github.io/portfolio/" src="portfolio.png"/></p>-->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Dyanesh Dhawale</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Kaif Mirza</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3>An enthusiast Web developer and AI/ML student</h3>
 
 
 
@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React,Firebase and Frontend**
+- 💬 Ask me about **Web development, Django, AI/ML**
 
-- 📫 How to reach me **dyanixdhawale@gmail.com**
+- 📫 How to reach me **mirzakaif21@gmail.com**
 
-- ⚡ Fun fact **I think iam creative and eager to learn faster**
-
+- ⚡ **I am eager to learn more and always up for new challenges**
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dyanesh dhawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyanesh dhawale" height="30" width="40" /></a>
